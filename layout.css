@@ -1,0 +1,44 @@
+header {
+    background-color: #ad0c0c;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+header .title {
+    font-weight: bold;
+    color: white;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.container {
+    display: flex;
+    margin: 10px;
+}
+
+main {
+    flex: 3;
+    background-color: ##F5F5F5;
+}
+
+aside {
+    flex: 1;
+    background-color: #fdf1f1; 
+}
+
+footer {
+    background-color: #ad0c0c;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.topbar{
+ backgrond: red;
+ color: black;
+}
