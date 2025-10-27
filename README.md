@@ -27,7 +27,7 @@
             <ol>
                 <h2>giơi thiệu</h2>
 				<u1>
-				<p>Họ Va Tên:Nguyễn Khúc Thanh Trong</p>
+				<p>tôi tên là Nguyễn Khúc Thanh Trọng hiện tại đang là sinh viên năm 2 của trường đại học Phan Thiết</p>
 				<p>MSSV:K16THO0066</p>
 				
 				</u1>
